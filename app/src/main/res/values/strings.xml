@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="app_name1">COMP259-FinalProject</string>
+    <string name="app_name">Student Budget Calculator</string>
+
+    <string name="header1">Budget Summary</string>
+    <string name="header2">Enter Expense Amounts</string>
+
+    //first fragment
+    <string name="monthlyBudgetLbl">Monthly Budget</string>
+    <string name="incomeLbl">Income: </string>
+    <string name="earningsLbl">Earnings: $ </string>
+    <string name="loansLbl">Loans: $ </string>
+    <string name="totalIncomeLbl">Total Income: $</string>
+    <string name="expensesLbl">Expenses: </string>
+    <string name="calculateExpensesLbl">Calculate Expenses</string>
+    <string name="totalExpenses1Lbl">Total Expenses: $ </string>
+    <string name="surplusOrShortfallLbl">Surplus/Shortfall: $ </string>
+
+    <string name="earningsInput"></string>
+    <string name="loansInput"></string>
+    <string name="totalIncomeInput"></string>
+    <string name="totalExpenses"></string>
+    <string name="surplusInput"></string>
+
+    //second fragment
+    <string name="enterExpensesAmountsLbl">Enter Expenses Amounts</string>
+    <string name="amountLbl">Amounts are: </string>
+    <string name="monthlyLbl">Monthly</string>
+    <string name="annualLbl">Annual</string>
+    <string name="housingCostLbl">Housing / Utilities Cost</string>
+    <string name="rentLbl">Rent: $</string>
+    <string name="utilitiesLbl">Utilities: $</string>
+    <string name="internetLbl">Internet: $</string>
+    <string name="phoneLbl">Phone: $</string>
+    <string name="totalHousingCostLbl">Total Housing Cost: $</string>
+    <string name="educationCostLbl">Education Cost:</string>
+    <string name="tuitionLbl">Tuition: $</string>
+    <string name="booksLbl">Books: $</string>
+    <string name="otherFeesLbl">Other Fees: $</string>
+    <string name="totalEduCostLbl">Total Education Cost: $</string>
+    <string name="totalExpenses2Lbl">Total Expenses: $</string>
+
+    <string name="rentInput"></string>
+    <string name="utilitiesInput"></string>
+    <string name="internetInput"></string>
+    <string name="phoneInput"></string>
+    <string name="totalHousingCostInput"></string>
+    <string name="tuitionInput"></string>
+    <string name="booksInput"></string>
+    <string name="otherFeesInput"></string>
+    <string name="totalEduCostInput"></string>
+    <string name="totalExpenses2Input"></string>
+
+    <string name="acceptBtn">Accept</string>
+
+
+
+</resources>
